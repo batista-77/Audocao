@@ -12,3 +12,70 @@ a{
     text-decoration: none;
     color: black;
 }
+
+
+/*
+CORES 
+Cor	HEX
+Fundo geral (bege claro)	Bege muito claro	#f8f6f3
+Texto escuro principal	Cinza escuro suave	#5e5e5e
+Botões principais (ex: “Adotar”)	Marrom suave	#8c7b6b
+Botão hover / destaque	Bege médio/marrom claro	#b6a088
+Fundo dos cards (branco levemente bege)	#fefcf9 ou #f9f6f2	
+Rodapé (fundo escuro)	Cinza escuro/marrom escuro	#3e3a37
+Ícone WhatsApp (verde)	Verde suave	#7a8c7b
+Ícone e-mail (bege escuro)	Bege caramelo	#cbb79d
+Ícone Instagram (rosado)	Rosa queimado	#c38c81
+
+*/
+
+cor{
+    /* Fundo geral (bege claro)	Bege muito claro */
+    color: #f8f6f3;
+
+    /* Texto escuro principal	Cinza escuro suave */
+    color: #5e5e5e;
+
+    /* Botões principais (ex: “Adotar”)	Marrom suave */
+    color: #8c7b6b;
+
+    /* Botão hover / destaque	Bege médio/marrom claro	#b6a088 */
+    color: #b6a088;
+
+    /* Fundo dos cards (branco levemente bege)	#fefcf9 ou #f9f6f2	 */
+    color: #f9f6f2	;
+
+    /* Rodapé (fundo escuro)	Cinza escuro/marrom escuro	#3e3a37 */
+    color: #3e3a37;
+
+    /* Ícone WhatsApp (verde)	Verde suave	#7a8c7b */
+    color:#7a8c7b ;
+
+
+    /* Ícone e-mail (bege escuro)	Bege caramelo	#cbb79d */
+    color: #cbb79d;
+
+    /* Ícone Instagram (rosado)	Rosa queimado	#c38c81 */
+    color: #c38c81;
+
+
+}
+
+/*
+FONTES 
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+*/ 

@@ -1,0 +1,43 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #FFF9F0;
+    color: #333;
+    line-height: 1.6;
+  }
+  .ajuda, .animais, .dicas {
+    padding: 40px;
+    background-color: #FFFFFF;
+  }
+  
+  .ajuda h2, .animais h2, .dicas h2 {
+    margin-bottom: 20px;
+    color: #2e633d;
+  }
+  
+  /* Cartões */
+  .cards {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    background: #F9F9F9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    flex: 1;
+    min-width: 150px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
+  }
+  
+  .botoes button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #D4EDDA;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+  }
